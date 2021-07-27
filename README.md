@@ -1,2 +1,2 @@
-# Curso-JavaScript
- Curso de JavaScript, Gustavo Guanabara.
+# Curso-JAVASCRIPT
+ Digital Innovation One
